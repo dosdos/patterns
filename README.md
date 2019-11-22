@@ -38,7 +38,7 @@ They are categorized in three groups: Creational, Structural, and Behavioral.
 
 
 # GRASP patterns
-source: [Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design%29)
+source: [Wikipedia](https://en.wikipedia.org/wiki/GRASP_%28object-oriented_design%29)
 
 General Responsibility Assignment Software Patterns (or Principles), abbreviated GRASP, consist of guidelines for assigning responsibility to classes and objects in object-oriented design.
 It is not related to the SOLID design principle. (see below)
@@ -58,7 +58,7 @@ All these 9 patterns answer some software problems, and have not been invented t
 source: [Wikipedia](https://en.wikipedia.org/wiki/SOLID)
 
 1. **Single responsibility principle**: every module or class should have responsibility over a single part of the functionality provided by the whole software.
-2. **Openâ€“closed principle**: software entities (classes, modules, functions, etc.) should be open for extensions, but closed for modification.
+2. **Open–closed principle**: software entities (classes, modules, functions, etc.) should be open for extensions, but closed for modification.
 3. **Liskov substitution principle**: Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program (see also design by contract).
 4. **Interface segregation principle**: Many client-specific interfaces are better than one general-purpose interface (in other words: do not add additional functionality to an existing interface by adding new methods, instead, create a new interface and let your class implement multiple interfaces if needed).
 5. **Dependency inversion principle**: High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend on details. Details should depend on abstractions.
