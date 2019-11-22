@@ -38,7 +38,7 @@ They are categorized in three groups: Creational, Structural, and Behavioral.
 
 
 # GRASP patterns
-source: [Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design\))
+source: [Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design%29)
 
 General Responsibility Assignment Software Patterns (or Principles), abbreviated GRASP, consist of guidelines for assigning responsibility to classes and objects in object-oriented design.
 It is not related to the SOLID design principle. (see below)
